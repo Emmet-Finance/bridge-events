@@ -10,3 +10,6 @@ Smart contract for testing oracle relayers
 
 ## Mumbai
 [0xbbbC5D74407Eb87D929b1eBA18ACbb95E11B219F](https://mumbai.polygonscan.com/address/0xbbbc5d74407eb87d929b1eba18acbb95e11b219f)
+
+## Spark
+[0xf2d7106892c2e6f02b1dffe8D657349C54042262](https://explorer.fusespark.io/address/0xf2d7106892c2e6f02b1dffe8D657349C54042262/transactions#address-tabs)
